@@ -1,4 +1,6 @@
-*.MOV
-/*/*.MOV
-*.mp4
-/*/*.mp4
+/vendor
+/composer.lock
+.idea/
+.tmp
+/node_modules
+/bower_components
